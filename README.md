@@ -11,6 +11,9 @@
 [![HitCount](http://hits.dwyl.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1.svg)](http://hits.dwyl.com/jamj2000/DAW1-ED-Pruebas-Ejemplo1)
 
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/roodriii17/Test-JUnit5-Aritmetica/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/roodriii17/Test-JUnit5-Aritmetica/tree/master)
+
+
 ## Pruebas unitarias en **Java** con **JUnit5** (Gradle)
 
 ### Requisitos previos
